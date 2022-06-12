@@ -8,7 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 
 
 public class Login {
-	
+	//webdriver declaration
 	WebDriver driver;
 	
 	//All required WebElements:
